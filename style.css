@@ -1,0 +1,16 @@
+body{
+
+    background-color:palegoldenrod;
+}
+
+h5{
+    border: solid;
+    color: rgba(231, 165, 24, 0.808);
+    background-color:rgb(7, 5, 4) ;
+}
+
+.card-body{
+
+    background-color:rgb(13, 14, 14) ;
+    color: lightgreen;
+}
